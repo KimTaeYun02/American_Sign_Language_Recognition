@@ -11,6 +11,7 @@
 
 [Hand Gesture Video Classification](https://www.kaggle.com/competitions/handgesturevideoclassification)
 
+[Neural Sign Language Translation based on Human Keypoint Estimation](https://rladuddms.tistory.com/94)
 
 image에서 시작해서 video까지?
 |일정|날짜|
