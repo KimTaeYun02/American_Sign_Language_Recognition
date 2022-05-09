@@ -10,5 +10,7 @@
 
 
 [Hand Gesture Video Classification](https://www.kaggle.com/competitions/handgesturevideoclassification)
+
+
 image에서 시작해서 video까지?
 수어 -> 글자 -> 자동완성 문장을 매끄럽게?
