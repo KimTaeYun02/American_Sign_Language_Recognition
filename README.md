@@ -1,5 +1,5 @@
-## American_Sign_Language_Recognition
----
+# American_Sign_Language_Recognition
+
  Pytorch와 Resnet152를 이용한 수화 인식 프로그램입니다. Kaggle American Sign Language의 데이터셋을 바탕으로 학습시켜 수화를 object detection하는 모델을 만들었습니다.
 
 
