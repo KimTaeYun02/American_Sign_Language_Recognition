@@ -13,12 +13,17 @@
  작성중입니다.
 
 ## 1. DataSet
+<<<<<<< HEAD
  Kaggle [hand-sign-images](https://www.kaggle.com/datasets/ash2703/handsignimages) 데이터셋을 사용하였씁니다. ASL(American Sign Language)는 미국 및 캐나다에서 주로 사용하는 수화입니다.
  ![ASL](/image/ASL.png)
  알파벳 A부터 Z까지 26개 전부 표현이 가능하지만 **Z의 수화는 검지 손가락으로 Z모양을 그리는 것**이기 때문에 학습에 사용한 데이터셋는 제외되어있습니다. 따라서 총 A부터 Y까지 총 25가지의 label이 있습니다.
  |알파벳 A|알파벳 Y|
  |--------|-------|
  |![A_ASL](/image/A_ASL.png)|![Y_ASL](/image/ASL.png)|
+=======
+ Kaggle [hand-sign-images](https://www.kaggle.com/datasets/ash2703/handsignimages) 데이터셋을 사용하였씁니다. ASL(American Sign Language)는 미국 및 캐나다에서 주로 사용하는 수화입니다. 알파벳 A부터 Z까지 26개 전부 표현이 가능하지만 **Z의 수화는 검지 손가락으로 Z모양을 그리는 것**이기 때문에 학습에 사용한 데이터셋는 제외되어있습니다. 따라서 총 A부터 Y까지 총 25가지의 label이 있습니다.
+ 
+>>>>>>> 81b2c115c670cdfa2fe0ae721c240964dde97a18
 ## 2. Train
  학습에 사용한 Hyperparameter은 다음과 같습니다
   > ~
@@ -42,4 +47,9 @@
 
 [Hand Gesture Video Classification](https://www.kaggle.com/competitions/handgesturevideoclassification)
 
+<<<<<<< HEAD
 [Neural Sign Language Translation based on Human Keypoint Estimation](https://rladuddms.tistory.com/94)
+=======
+[Neural Sign Language Translation based on Human Keypoint Estimation](https://rladuddms.tistory.com/94)
+
+>>>>>>> 81b2c115c670cdfa2fe0ae721c240964dde97a18
